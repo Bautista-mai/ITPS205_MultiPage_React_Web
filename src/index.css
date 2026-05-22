@@ -16,9 +16,4 @@ html {
         font-family: "Iosevka Charon", monospace;
         color: #000;
     }
-
-    button {
-        border: none;
-        cursor: pointer;
-    }
 }
